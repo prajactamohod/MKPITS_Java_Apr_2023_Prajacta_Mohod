@@ -1,0 +1,5 @@
+class enquiry department extend department{
+string passenger enquiry;
+string flight enquiry;
+string medical enquiry;
+}

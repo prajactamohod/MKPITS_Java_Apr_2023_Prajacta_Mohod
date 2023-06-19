@@ -1,0 +1,6 @@
+class runway extend flight{
+string runway number;
+string flight name;
+string occupied status;
+}
+

@@ -1,0 +1,5 @@
+ class saree{
+ string colour;
+ string pattern;
+ string wearning style;
+ }

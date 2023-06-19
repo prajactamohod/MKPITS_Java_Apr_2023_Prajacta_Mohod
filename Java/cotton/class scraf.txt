@@ -1,0 +1,5 @@
+ class scarf{
+ string cleanliness;
+ string sun protection;
+ string colour;
+ }

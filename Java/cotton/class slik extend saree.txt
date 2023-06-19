@@ -1,0 +1,5 @@
+class slik extend saree{
+ string fabric;
+ string light weight;
+ string colour;
+ }

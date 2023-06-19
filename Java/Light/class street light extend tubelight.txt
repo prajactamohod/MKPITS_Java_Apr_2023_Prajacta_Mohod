@@ -1,0 +1,5 @@
+class street light extend tubelight{
+string poll;
+int watt;
+string generator;
+}
