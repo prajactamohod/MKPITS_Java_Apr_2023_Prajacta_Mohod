@@ -1,6 +1,0 @@
-class flight{
-string bussiness class;
-string economic class;
-int takeoff time;
-int departure time;
-}

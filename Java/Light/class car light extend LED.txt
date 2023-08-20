@@ -1,5 +1,0 @@
-class car light extend LED{
-	string shape;
-	string battery;
-	string switch;
-}

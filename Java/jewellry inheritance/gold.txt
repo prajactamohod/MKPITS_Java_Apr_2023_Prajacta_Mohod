@@ -1,5 +1,0 @@
-class gold{
-string colour(orange yellow);
-string bright;
-int price;
-}

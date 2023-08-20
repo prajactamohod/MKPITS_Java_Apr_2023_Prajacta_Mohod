@@ -1,5 +1,0 @@
-class department{
-String department name;
-int no.of staff;
-String area;
-}

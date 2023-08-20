@@ -1,4 +1,0 @@
-class sliver{
-string colour(white lustrous);
-int price;
-}

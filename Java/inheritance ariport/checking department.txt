@@ -1,4 +1,0 @@
-class checking department[
-string boarding;
-string passeger;
-}

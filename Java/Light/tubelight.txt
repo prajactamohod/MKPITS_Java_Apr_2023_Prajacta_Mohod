@@ -1,5 +1,0 @@
-class tubelight{
-string shape;
-int watt;
-string condensor;
-}

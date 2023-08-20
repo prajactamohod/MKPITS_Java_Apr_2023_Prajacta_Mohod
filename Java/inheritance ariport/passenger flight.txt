@@ -1,6 +1,0 @@
-class passeger extend flight {
-string passenger name;
-string passenger lagguage;
-string passenger document;
-string passenger waiting area;
-}
