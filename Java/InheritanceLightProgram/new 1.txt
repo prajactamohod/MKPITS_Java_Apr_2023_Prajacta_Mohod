@@ -1,0 +1,10 @@
+class Addition {
+public void Addition(int number1,number2){
+int sum=number1,number2;
+system.out.printfln("Addition of 2-number="+sum);
+}
+public static void main(int number1,int number2){
+int sum=number1+number2;
+Addition Add=new Addition();
+add.Addition(7,9);
+}
