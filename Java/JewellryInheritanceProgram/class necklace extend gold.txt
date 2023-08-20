@@ -1,0 +1,6 @@
+class necklace extend gold{
+string desing;
+int price;
+string pendant;
+string chain;
+}

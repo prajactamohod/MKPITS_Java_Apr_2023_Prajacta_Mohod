@@ -1,0 +1,4 @@
+class earing extend gold{
+string length;
+string desing;
+}
