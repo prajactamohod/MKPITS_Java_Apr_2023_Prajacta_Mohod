@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form  th:action="@{/processstudform}" th:obejct="${stud}" method="post">
+     <lable>rollno</lable><input type="text" placeholder="enter the rollno" th:field="${stud.rollno}" name="rollno">
+    <lable>name</lable><input type="text" placeholder="enter the name" th:field="${stud.name}" name="name">
+
+    <lable>City</lable>
+    <select name="city">
+         <option value="Pune">Pune</option>
+         <option value="Banglore">Banglore</option>
+     </select>
+
+
+    <lable>Gender</lable>
+    <input type="radio" name="m" value="Male"th:field="${stud.gender}">Male
+    <input type="radio" name="m" value="Female" th:field="${stud.gender}">Female
+<!--    <input type="text" placeholder="enter the address" name="address"><lable>address</lable>-->
+<!--    <input type="text" placeholder="enter the city" name="city"><lable>city</lable>-->
+
+
+
+    <input type="submit">
+
+
+</form>
+
+</body>
+</html>
